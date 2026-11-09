@@ -1,0 +1,5 @@
+#in this file we mention what all we need to ignore in the project or ignore from tracking
+#heavy files or senesitive files like .env that has secrets and passwords.
+*.css
+app.js
+passwords/
